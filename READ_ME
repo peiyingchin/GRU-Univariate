@@ -1,0 +1,4 @@
+This is an example of how GRU model use for univariate time series data to modelling prediction. 
+
+hour, month day is convert to cos sin based on resource below: 
+http://blog.davidkaleko.com/feature-engineering-cyclical-features.html
